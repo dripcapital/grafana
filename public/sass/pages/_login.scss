@@ -126,7 +126,9 @@ select:-webkit-autofill:focus {
 
 .app-grafana {
   .logo-wordmark {
-    background: url('../img/grafana_typelogo.svg') top center no-repeat;
+    font-size: 35px;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
     width: 100%;
     height: 70px;
   }
@@ -134,7 +136,9 @@ select:-webkit-autofill:focus {
 
 .app-enterprise {
   .logo-wordmark {
-    background: url('../img/grafana_enterprise_typelogo.svg') top center no-repeat;
+    font-size: 35px;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
     width: 100%;
     height: 70px;
   }

@@ -14,7 +14,7 @@ export const LoginLogo: FC<BrandComponentProps> = ({ className }) => {
   return (
     <>
       <img className={cx(className, maxSize)} src="public/img/sauron.png" alt="Sauron" />
-      <div className="logo-wordmark" />
+      <div className="logo-wordmark">Sauron</div>
     </>
   );
 };
